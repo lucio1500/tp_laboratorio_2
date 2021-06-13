@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.Reloj">
+    <Position X="0.5" Y="1" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AEAABBAAAAQQAAAEgAAAAAAAAEAAAABAAAgAAABIAiQ=</HashCode>
+      <FileName>Reloj.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.RelojInteligente">
+    <Position X="6.5" Y="3.5" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAEAAAAAAAAAAAAAABAAAAAwAAAAIA=</HashCode>
+      <FileName>RelojInteligente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.RelojPulsera">
+    <Position X="6.75" Y="0.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAEAAAAAAAAgAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>RelojPulsera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Productos&lt;T&gt;">
+    <Position X="0.5" Y="13.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAABAABAEQAEABAQAAAAAAAAAAAAAAABAEAA=</HashCode>
+      <FileName>Productos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Relojes&lt;T&gt;">
+    <Position X="4" Y="13.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Relojes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Fabrica">
+    <Position X="0.75" Y="8.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAARAAACEgAAAgAAAAAAAAAAAAAEAAAABAiA=</HashCode>
+      <FileName>Fabrica.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.FabricaRelojes">
+    <Position X="5.5" Y="7.75" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgAEAAAQAAAAEQEEAAAAEAAAAAAAhAAAABAAAAqA=</HashCode>
+      <FileName>FabricaRelojes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="EEstadoRelojes">
+    <Position X="11" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAABAAAAAgAAA=</HashCode>
+      <FileName>EEstadoRelojes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EGama">
+    <Position X="14.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>EGama.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EMaquinaria">
+    <Position X="11" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>EMaquinaria.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EMarca">
+    <Position X="12.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAgAAAAAA=</HashCode>
+      <FileName>EMarca.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EMaterial">
+    <Position X="12.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAACAAAAAAAgAAAAAAIAAAA=</HashCode>
+      <FileName>EMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EPantalla">
+    <Position X="14.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgACAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EPantalla.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ETipo">
+    <Position X="11" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAAAEAAAAAAACAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>ETipo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
