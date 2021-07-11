@@ -1,0 +1,6 @@
+C:\Users\lucio\source\repos\Gonzalez.LucioAndres.2A.TPFINAL\Fabrica\bin\Debug\Fabrica.dll
+C:\Users\lucio\source\repos\Gonzalez.LucioAndres.2A.TPFINAL\Fabrica\bin\Debug\Fabrica.pdb
+C:\Users\lucio\source\repos\Gonzalez.LucioAndres.2A.TPFINAL\Fabrica\obj\Debug\Fabrica.csprojAssemblyReference.cache
+C:\Users\lucio\source\repos\Gonzalez.LucioAndres.2A.TPFINAL\Fabrica\obj\Debug\Fabrica.csproj.CoreCompileInputs.cache
+C:\Users\lucio\source\repos\Gonzalez.LucioAndres.2A.TPFINAL\Fabrica\obj\Debug\Fabrica.dll
+C:\Users\lucio\source\repos\Gonzalez.LucioAndres.2A.TPFINAL\Fabrica\obj\Debug\Fabrica.pdb
