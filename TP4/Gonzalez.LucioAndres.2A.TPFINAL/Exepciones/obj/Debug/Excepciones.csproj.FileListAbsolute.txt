@@ -10,3 +10,9 @@ C:\Users\lucio\Desktop\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Exepciones\obj\Debug\
 C:\Users\lucio\Desktop\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Exepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\lucio\Desktop\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Exepciones\obj\Debug\Exepciones.dll
 C:\Users\lucio\Desktop\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Exepciones\obj\Debug\Exepciones.pdb
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Exepciones\bin\Debug\Exepciones.dll
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Exepciones\bin\Debug\Exepciones.pdb
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Exepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Exepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Exepciones\obj\Debug\Exepciones.dll
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Exepciones\obj\Debug\Exepciones.pdb

@@ -11,3 +11,16 @@ C:\Users\lucio\Desktop\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\obj\Debug\E
 C:\Users\lucio\Desktop\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\obj\Debug\Extension.csproj.CopyComplete
 C:\Users\lucio\Desktop\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\obj\Debug\Extension.dll
 C:\Users\lucio\Desktop\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\obj\Debug\Extension.pdb
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\bin\Debug\Extension.dll
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\bin\Debug\Extension.pdb
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\bin\Debug\Archivos.dll
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\bin\Debug\Exepciones.dll
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\bin\Debug\Fabrica.dll
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\bin\Debug\Archivos.pdb
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\bin\Debug\Exepciones.pdb
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\bin\Debug\Fabrica.pdb
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\obj\Debug\Extension.csprojAssemblyReference.cache
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\obj\Debug\Extension.csproj.CoreCompileInputs.cache
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\obj\Debug\Extension.csproj.CopyComplete
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\obj\Debug\Extension.dll
+C:\Users\lucio\Desktop\tp_laboratorio_2\TP4\Gonzalez.LucioAndres.2A.TPFINAL\Extension\obj\Debug\Extension.pdb

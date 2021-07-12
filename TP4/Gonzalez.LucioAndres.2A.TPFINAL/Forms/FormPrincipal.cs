@@ -470,7 +470,8 @@ namespace Forms
             {
                 if (FabricaRelojes.Leer(Environment.GetFolderPath(System.Environment.SpecialFolder.Desktop) + @"\FabricaRelojes.xml",out fabricaRelojes))
                 {
-                    MessageBox.Show(fabricaRelojes.ToString(), "XML Cargado Exitosamente");
+                    MessageBox.Show("XML Cargado Exitosamente");
+                    txtXml.Text = fabricaRelojes.ToString();
                 }
                 else
                 {

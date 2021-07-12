@@ -52,6 +52,7 @@
             this.btnLeerXml = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.btnListado = new System.Windows.Forms.Button();
+            this.txtXml = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvGrillaInteligente)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvGrillaPulsera)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvInteligentesTerminados)).BeginInit();
@@ -66,7 +67,7 @@
             this.dgvGrillaInteligente.Location = new System.Drawing.Point(12, 80);
             this.dgvGrillaInteligente.Name = "dgvGrillaInteligente";
             this.dgvGrillaInteligente.ReadOnly = true;
-            this.dgvGrillaInteligente.Size = new System.Drawing.Size(822, 179);
+            this.dgvGrillaInteligente.Size = new System.Drawing.Size(805, 179);
             this.dgvGrillaInteligente.TabIndex = 0;
             // 
             // dgvGrillaPulsera
@@ -74,10 +75,10 @@
             this.dgvGrillaPulsera.AllowUserToAddRows = false;
             this.dgvGrillaPulsera.AllowUserToDeleteRows = false;
             this.dgvGrillaPulsera.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvGrillaPulsera.Location = new System.Drawing.Point(840, 80);
+            this.dgvGrillaPulsera.Location = new System.Drawing.Point(822, 80);
             this.dgvGrillaPulsera.Name = "dgvGrillaPulsera";
             this.dgvGrillaPulsera.ReadOnly = true;
-            this.dgvGrillaPulsera.Size = new System.Drawing.Size(779, 179);
+            this.dgvGrillaPulsera.Size = new System.Drawing.Size(650, 179);
             this.dgvGrillaPulsera.TabIndex = 1;
             // 
             // lblRelojInteligente
@@ -92,7 +93,7 @@
             // lblRelojPulsera
             // 
             this.lblRelojPulsera.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRelojPulsera.Location = new System.Drawing.Point(834, 42);
+            this.lblRelojPulsera.Location = new System.Drawing.Point(816, 44);
             this.lblRelojPulsera.Name = "lblRelojPulsera";
             this.lblRelojPulsera.Size = new System.Drawing.Size(734, 30);
             this.lblRelojPulsera.TabIndex = 3;
@@ -153,7 +154,7 @@
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 19F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(835, 271);
+            this.label3.Location = new System.Drawing.Point(817, 271);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(655, 30);
             this.label3.TabIndex = 9;
@@ -167,7 +168,7 @@
             this.dgvInteligentesTerminados.Location = new System.Drawing.Point(12, 304);
             this.dgvInteligentesTerminados.Name = "dgvInteligentesTerminados";
             this.dgvInteligentesTerminados.ReadOnly = true;
-            this.dgvInteligentesTerminados.Size = new System.Drawing.Size(822, 142);
+            this.dgvInteligentesTerminados.Size = new System.Drawing.Size(805, 142);
             this.dgvInteligentesTerminados.TabIndex = 10;
             // 
             // dgvPulseraTerminados
@@ -175,10 +176,10 @@
             this.dgvPulseraTerminados.AllowUserToAddRows = false;
             this.dgvPulseraTerminados.AllowUserToDeleteRows = false;
             this.dgvPulseraTerminados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvPulseraTerminados.Location = new System.Drawing.Point(840, 304);
+            this.dgvPulseraTerminados.Location = new System.Drawing.Point(822, 304);
             this.dgvPulseraTerminados.Name = "dgvPulseraTerminados";
             this.dgvPulseraTerminados.ReadOnly = true;
-            this.dgvPulseraTerminados.Size = new System.Drawing.Size(779, 142);
+            this.dgvPulseraTerminados.Size = new System.Drawing.Size(650, 142);
             this.dgvPulseraTerminados.TabIndex = 11;
             // 
             // btnPulirRelojes
@@ -303,6 +304,16 @@
             this.btnListado.UseVisualStyleBackColor = false;
             this.btnListado.Click += new System.EventHandler(this.btnListado_Click);
             // 
+            // txtXml
+            // 
+            this.txtXml.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtXml.Location = new System.Drawing.Point(1478, 80);
+            this.txtXml.Multiline = true;
+            this.txtXml.Name = "txtXml";
+            this.txtXml.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.txtXml.Size = new System.Drawing.Size(165, 366);
+            this.txtXml.TabIndex = 55;
+            // 
             // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -310,6 +321,7 @@
             this.AutoScroll = true;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1648, 559);
+            this.Controls.Add(this.txtXml);
             this.Controls.Add(this.btnListado);
             this.Controls.Add(this.btnLeerXml);
             this.Controls.Add(this.btnGuardar);
@@ -344,6 +356,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvInteligentesTerminados)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPulseraTerminados)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -373,6 +386,7 @@
         private System.Windows.Forms.Button btnLeerXml;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.Button btnListado;
+        private System.Windows.Forms.TextBox txtXml;
     }
 }
 
